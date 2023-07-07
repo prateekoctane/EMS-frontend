@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.gradient {
+  background: rgb(25, 176, 207);
+  background: linear-gradient(
+    13deg,
+    rgba(25, 176, 207, 1) 22%,
+    rgba(6, 0, 41, 1) 100%
+  );
+}
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+.primary {
+  color: #060029;
+}
+
+.color {
+  color: #060029;
+}
+
+.yellow {
+  color: #ffe801;
+}
+
